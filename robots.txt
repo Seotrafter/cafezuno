@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /about.html
+Sitemap: https://cafezuno.com/sitemap.xml
